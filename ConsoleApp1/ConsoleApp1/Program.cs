@@ -9,5 +9,12 @@ namespace ConsoleApp1
         {
             Console.WriteLine("semmi");
         }
+
+        public static void Feature1()
+        {
+            Console.WriteLine("sad");
+        }
     }
+
+   
 }

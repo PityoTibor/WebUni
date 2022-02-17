@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\gitBashtest\\tesztrepo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\c#\\git\\klon\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\gitBashtest\\tesztrepo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\c#\\git\\klon\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\gitBashtest\\tesztrepo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\c#\\git\\klon\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "D:\\gitBashtest\\tesztrepo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "D:\\c#\\git\\klon\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Pityó Tibor\\.nuget\\packages\\",
-        "outputPath": "D:\\gitBashtest\\tesztrepo\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\c#\\git\\klon\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pityó Tibor\\AppData\\Roaming\\NuGet\\NuGet.Config",
